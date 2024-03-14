@@ -1,0 +1,29 @@
+{
+  "jugadores": [
+    {
+      "nombre": "Tetsuya Nishio",
+      "anio_nacimiento": 1969,
+      "descripcion_corta": "Conocido como el 'Dios del Sudoku', es famoso por su velocidad y precisión en la resolución de sudokus."
+    },
+    {
+      "nombre": "Thomas Snyder",
+      "anio_nacimiento": 1978,
+      "descripcion_corta": "Apodado 'Dr. Sudoku', es un campeón mundial múltiple de sudoku y rompecabezas."
+    },
+    {
+      "nombre": "Yuhei Kusui",
+      "anio_nacimiento": 1973,
+      "descripcion_corta": "Un prolífico competidor japonés de sudoku, conocido por su habilidad para resolver sudokus de manera rápida."
+    },
+    {
+      "nombre": "Wei-Hwa Huang",
+      "anio_nacimiento": 1978,
+      "descripcion_corta": "Un talentoso competidor y creador de rompecabezas, ha ganado varios títulos mundiales de sudoku."
+    },
+    {
+      "nombre": "Ulrich Voigt",
+      "anio_nacimiento": 1963,
+      "descripcion_corta": "Uno de los primeros campeones mundiales de sudoku, conocido por su velocidad y precisión."
+    }
+  ]
+}
